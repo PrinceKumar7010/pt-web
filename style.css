@@ -1,0 +1,397 @@
+.abc {
+    color: yellow;
+}
+
+
+
+.abc:hover {
+
+    color: rgb(55, 105, 220);
+
+}
+
+.ok {
+    background-color: blue;
+    border-radius: 10%;
+    color: aliceblue;
+    margin: 0px;
+}
+
+.ok:hover {
+    background-color: #7455e3;
+}
+
+
+
+.nav-link:hover {
+    background-color: blue;
+    color: white;
+}
+
+
+.out {
+
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+
+}
+
+out:hover {
+    transform: scale(1.1);
+
+}
+
+.btn-primary:hover {
+    background-color: #94ab00;
+}
+
+.ho {
+    position: absolute;
+    top: 40px;
+    left: 700px;
+}
+
+#ak {
+
+    position: absolute;
+    top: 130px;
+    left: 200px;
+    height: 420px;
+    width: 480px;
+
+
+}
+
+#bk {
+
+    position: absolute;
+    top: -20px;
+    left: 50px;
+    width: 100%;
+    height: 100%;
+
+
+
+}
+
+#ck {
+    position: absolute;
+    top: 200px;
+    left: 650px;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.img1 {
+    margin-top: 14%;
+    margin-left: 11%;
+    padding-top: -10%;
+    position: absolute;
+}
+
+.img2 {
+    margin-top: 13%;
+    margin-left: 11%;
+    padding-top: -10%;
+    position: absolute;
+}
+
+.img3 {
+    z-index: 10;
+    margin-top: 14%;
+    margin-left: 13%;
+    padding-top: -10%;
+    position: absolute;
+}
+
+.img4 {
+    z-index: 10;
+    margin-top: 14%;
+    margin-left: 11%;
+    padding-top: -10%;
+    position: absolute;
+}
+
+.img5 {
+    z-index: 10;
+    margin-top: 14%;
+    margin-left: 14%;
+    padding-top: -10%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+
+}
+
+.img6 {
+    z-index: 10;
+    margin-top: 14%;
+    margin-left: 14%;
+    padding-top: -10%;
+    position: absolute;
+
+
+}
+
+.img7 {
+    z-index: 10;
+    margin-top: 14%;
+    margin-left: 11%;
+    padding-top: -10%;
+    position: absolute;
+
+
+}
+
+.img8 {
+    z-index: 10;
+    margin-top: 14%;
+    margin-left: 14%;
+    padding-top: -10%;
+    position: absolute;
+
+
+}
+
+.c1 {
+    width: 225px;
+    height: 225px;
+    position: relative;
+    background-color: #D4ADFC;
+    top: 4000px;
+    left: 320px;
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c2 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    background-color: #5C469C;
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c3 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    background-color: yellow;
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c4 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    background-color: #0C134F;
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c5 {
+    width: 225px;
+    height: 225px;
+    position: relative;
+    background-color: #03C988;
+    top: 260px;
+    left: 0px;
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c6 {
+    width: 225px;
+    height: 225px;
+    position: relative;
+    background-color: #21b7d9;
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c7 {
+    width: 225px;
+    height: 225px;
+    position: relative;
+    background-color: rgb(13, 13, 11);
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c8 {
+    width: 225px;
+    height: 225px;
+    position: relative;
+    background-color: #6C00FF;
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+
+.c9 {
+    width: 225px;
+    height: 225px;
+    position: relative;
+    background-color: #D4ADFC;
+    top: 4000px;
+    left: 320px;
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c10 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    background-color: #5C469C;
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c11 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    background-color: yellow;
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+.c12 {
+    width: 225px;
+    height: 225px;
+    position: absolute;
+    background-color: #0C134F;
+    top: 0px;
+    left: 250px;
+
+    border-radius: 20%;
+    box-shadow: 3px 3px 3px black;
+}
+
+#edu {
+
+    width: 200px;
+    height: 200px;
+    position: absolute;
+
+    top: 550px;
+    left: 270px;
+
+}
+
+/* Default styles for all devices */
+
+/* Media query for mobile devices with a maximum width of 768px */
+@media screen and (max-width: 768px) {
+
+    /* Write your mobile-specific styles here */
+    /* These styles will only apply to devices with a screen width of 768px or less */
+    .c1,
+    .c2,
+    .c3,
+    .c4,
+    .c5,
+    .c6,
+    .c7,
+    .c8,
+    .c9,
+    .c10,
+    .c11,
+    .c12 {
+        width: 150px;
+        height: 150px;
+    }
+
+    #edu {
+        width: 150px;
+        height: 150px;
+        top: 350px;
+        left: 120px;
+    }
+
+    /* Mobile-specific styles for other elements */
+    .img1,
+    .img2,
+    .img3,
+    .img4,
+    .img5,
+    .img6,
+    .img7,
+    .img8 {
+        margin-top: 8%;
+        margin-left: 6%;
+        padding-top: -5%;
+    }
+
+    .ho {
+        top: 20px;
+        left: 50px;
+    }
+
+    /* Additional mobile-specific styles can be added here */
+}
+
+/* Media query for tablets with a maximum width of 1024px */
+@media screen and (max-width: 1024px) {
+    /* Write your tablet-specific styles here */
+    /* These styles will only apply to devices with a screen width of 1024px or less */
+
+    /* Example: Adjusting the size of elements for tablets */
+    .c1,
+    .c2,
+    .c3,
+    .c4,
+    .c5,
+    .c6,
+    .c7,
+    .c8,
+    .c9,
+    .c10,
+    .c11,
+    .c12 {
+        width: 180px;
+        height: 180px;
+    }
+
+    #edu {
+        width: 180px;
+        height: 180px;
+        top: 450px;
+        left: 170px;
+    }
+
+    /* Additional tablet-specific styles can be added here */
+}
